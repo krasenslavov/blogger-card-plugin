@@ -1,0 +1,2 @@
+<?php
+// Slicence is golden.

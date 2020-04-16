@@ -1,0 +1,11 @@
+:root {
+  --primary: #0073aa;
+  --white: #ffffff;
+  --lightgrey: #f2f1f1;
+}
+.grid {
+  align-items: flex-start;
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(256px, 1fr));
+} 
