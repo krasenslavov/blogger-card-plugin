@@ -1,4 +1,4 @@
-# Create a Complete WordPress Blogger Card Plugin using Web Components
+# WordPress Blogger Card Plugin using Web Components
 
 This is a repository based on the quick tutorial that I published on CTRLS|DEV blog.
 
